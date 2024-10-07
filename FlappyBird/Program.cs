@@ -10,6 +10,7 @@ namespace FlappyBird
 {
     internal class Program
     {
+
         static int ScreenSizeX = 25;
         static int ScreenSizeY = 20;
 
