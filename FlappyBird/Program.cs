@@ -51,8 +51,7 @@ namespace FlappyBird
         {
             Console.Clear();
             Console.SetCursorPosition(0,0);
-            Console.Write("Game Over");
-            Console.ReadLine();
+            Console.Write(" ");
         }
         /*
                     Console.SetCursorPostion();
