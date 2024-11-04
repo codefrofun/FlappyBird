@@ -80,7 +80,7 @@ namespace FlappyBird
             {
                 int gapPoint = random.Next(0 + gapSize, ScreenSizeY - gapSize);
                 Pipe newPipe = new Pipe(ScreenSizeX, gapPoint);
-                pipes.Add(newPipe);
+                pipes.Add(newPipe);   
             }
         }
 
